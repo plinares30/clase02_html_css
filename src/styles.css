@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 10px;
+  padding-top: 50px;
+  min-height: 80%;
+  color: red;
+  background-color: aqua;
+  /* interlineado */
+  line-height: 1.5;
+  font-size: 15px;
+  /* normal bold italic */
+  font-weight: bold;
+}
+.encabezados {
+  color: blue;
+}
+#ulista {
+  color: darkviolet;
+}
